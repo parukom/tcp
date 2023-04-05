@@ -1,0 +1,21 @@
+.section_two{
+  background-color: white;
+}
+.title_div{
+  padding: 5px;
+  margin-bottom: 40px;
+}
+.title_div p, .title_div h1 {
+  text-align: center;
+  color:black;
+}
+.title_div h1{
+  font-size: 32px;
+}
+.cards_div{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  row-gap: 20px;
+}

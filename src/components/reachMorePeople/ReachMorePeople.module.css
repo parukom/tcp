@@ -1,0 +1,38 @@
+/* body{
+  background-color: #141516;
+} */
+.text_div h1 {
+  color: white;
+  font-size: 42px;
+  font-weight: bold;
+}
+.text_div{
+  padding: 20px;
+}
+.text_div p {
+  color: white;
+}
+.image_div {
+  max-width: 100%;
+  overflow: hidden;
+  padding: 5px;
+}
+.image_div img {
+  width: 100%;
+}
+.btn_div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn_start_now{
+  width: 165px;
+  height: 45px;
+  background-color: white;
+  border-radius: 50px;
+  margin: 34px auto;
+}
+.img {
+  width: 100px;
+  height: 100px;
+}

@@ -1,0 +1,19 @@
+.startYourOwnBusiness__section h1, .startYourOwnBusiness__section p {
+  color: white;
+  text-align: center;
+}
+.startYourOwnBusiness__section img{
+  max-width: 370px;
+}
+.StartYourOwnBusiness__btn_div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.startYourOwnBusiness__btn_start_now{
+  width: 165px;
+    height: 45px;
+    background-color: white;
+    border-radius: 50px;
+    margin: 34px auto;
+}

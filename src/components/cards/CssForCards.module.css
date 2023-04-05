@@ -1,0 +1,12 @@
+.helpToGrow__main_div{
+  padding: 10px;
+}
+.helpToGrow__main_div h1{
+  font-size: 2rem;
+}
+.helpToGrow__main_div h1, .helpToGrow__main_div p{
+  color: white;
+}
+.helpToGrow__body{
+  width: 332px;
+}
